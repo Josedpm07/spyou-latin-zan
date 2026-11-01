@@ -1,24 +1,24 @@
 {
-  "description": "Zangetsu app sources - Latin/Spanish-language collection.",
-  "name": "spyou-latin-zan",
+  "name": "mi-repo-latino",
+  "description": "Fuentes en español para Zangetsu",
   "sources": [
     {
-      "file": "providers/animeav1.js",
       "id": "animeav1",
-      "lang": "es",
-      "logo": "icons/animeav1.png",
       "name": "AnimeAV1",
+      "version": "1.0.0",
       "type": "anime",
-      "version": "1.0.0"
+      "lang": "es",
+      "file": "providers/animeav1.js",
+      "logo": "icons/animeav1.png"
     },
     {
-      "file": "providers/animejl.js",
       "id": "animejl",
-      "lang": "es",
-      "logo": "icons/animejl.png",
       "name": "AnimeJL",
+      "version": "1.0.0",
       "type": "anime",
-      "version": "1.0.0"
+      "lang": "es",
+      "file": "providers/animejl.js",
+      "logo": "icons/animejl.png"
     }
   ]
 }
