@@ -19,6 +19,24 @@
       "lang": "es",
       "file": "providers/animejl.js",
       "logo": "icons/animejl.png"
+    },
+    {
+      "id": "cinecalidad",
+      "name": "CineCalidad",
+      "version": "0.1.0",
+      "type": "movie",
+      "lang": "es",
+      "file": "providers/cinecalidad.js",
+      "logo": "https://www.cinecalidad.vg/favicon.ico"
+    },
+    {
+      "id": "lacartoons",
+      "name": "LACartoons",
+      "version": "0.1.0",
+      "type": "series",
+      "lang": "es",
+      "file": "providers/lacartoons.js",
+      "logo": "https://lacartoons.com/favicon.ico"
     }
   ]
 }
