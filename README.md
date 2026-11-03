@@ -16,6 +16,8 @@ Zangetsu app source repository - Latin/Spanish-language collection.
 |---|---|---|
 | AnimeAV1 | es | 1.0.0 |
 | AnimeJL | es | 1.0.0 |
+| CineCalidad | es | 0.1.0 (beta, sin probar) |
+| LACartoons | es | 0.1.0 (beta, sin probar) |
 
 
 ## Layout
